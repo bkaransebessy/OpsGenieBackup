@@ -1,0 +1,1 @@
+{"id":"c4ffa0bb-6d59-472a-a089-bfd0e72bd482","name":"Forward to Build Infra","description":"","ownerTeam":{"id":"167e6bf6-27ff-4120-8f72-753eb614796e","name":"Build Platform - Services"},"rules":[{"condition":"if-not-acked","notifyType":"default","delay":{"timeAmount":0,"timeUnit":"minutes"},"recipient":{"type":"team","name":"Build Platform - Infra"}}]}

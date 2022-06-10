@@ -1,0 +1,1 @@
+{"id":"f29dabe7-d4e1-4a7b-9a99-7e62d70dfb7d","name":"Activation_escalation","description":"","ownerTeam":{"id":"54a6b9d5-db58-4de8-8538-d2aa567352e0","name":"Activation"},"rules":[{"condition":"if-not-acked","notifyType":"default","delay":{"timeAmount":0,"timeUnit":"minutes"},"recipient":{"type":"team","name":"Website"}}]}
